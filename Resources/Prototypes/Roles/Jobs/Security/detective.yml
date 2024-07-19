@@ -6,7 +6,7 @@
   requirements:
     - !type:RoleTimeRequirement # DeltaV - JobSecurityOfficer time requirement
       role: JobSecurityOfficer
-      time: 21600 # DeltaV - 6 hrs
+      time: 5400 # 21600 # DeltaV - 6 hrs
   startingGear: DetectiveGear
   icon: "JobIconDetective"
   supervisors: job-supervisors-hos

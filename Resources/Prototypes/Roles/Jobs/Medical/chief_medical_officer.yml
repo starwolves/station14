@@ -9,15 +9,15 @@
   requirements:
     - !type:RoleTimeRequirement
       role: JobChemist
-      time: 14400 #DeltaV 4 hrs
+      time: 3600 #14400 #DeltaV 4 hrs
 #    - !type:RoleTimeRequirement # DeltaV - No Medical Doctor time requirement
 #      role: JobMedicalDoctor
 #      time: 21600 #6 hrs
     - !type:DepartmentTimeRequirement
       department: Medical
-      time: 43200 # DeltaV - 12 hours
+      time: 10800 # 43200 # DeltaV - 12 hours
     - !type:OverallPlaytimeRequirement
-      time: 72000 # DeltaV - 20 hours
+      time: 18000 # 72000 # DeltaV - 20 hours
   weight: 10
   startingGear: CMOGear
   icon: "JobIconChiefMedicalOfficer"
