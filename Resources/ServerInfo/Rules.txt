@@ -1,13 +1,13 @@
 ﻿[color=#ffff00]Mission Statement:
 
-Delta-V is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job, interacting with your fellow crewmates, and using roleplay as the primary vessel to play the game. MRP places less emphasis on "winning" and more on just telling a story.[/color]
+Starwolves Station 14 is a Medium Roleplay server. Try to immerse yourself into your character. This includes doing your job, interacting with your fellow crewmates, and using roleplay as the primary vessel to play the game. MRP places less emphasis on "winning" and more on just telling a story.[/color]
 
 [color=#ff0000]Server Disclaimers:[/color]
-You must be at least 17 years of age to play on Delta-V’s servers. Any users suspected of being under the age of 17 will be removed.
+You must be at least 18 years of age to play on the servers of Starwolves. Any users suspected of being under the age of 18 will be removed.
 
-By connecting to this server, you agree to our privacy policy found at [color=#808080]https://go.delta-v.org/privacy[/color].
+By connecting to this server, you agree to our privacy policy found at [color=#808080]https://gitlab.starwolves.io/starwolf/privacy-policy/-/raw/master/POLICY[/color].
 
-Intentionally disconnecting, responding with hostility, or refusing to respond when an admin privately messages you in-game will be met with an appeal-only ban. Additionally, abusing the AHelp relay by flooding it with garbage, checking for admins before stating a problem (ex: "hello?", "any admins?"), using it as a chatroom, or sending messages of no substance will result in your removal. All AHelp messages are relayed to the Delta-V Discord.
+Intentionally disconnecting, responding with hostility, or refusing to respond when an admin privately messages you in-game will be met with an appeal-only ban. Additionally, abusing the AHelp relay by flooding it with garbage, checking for admins before stating a problem (ex: "hello?", "any admins?"), using it as a chatroom, or sending messages of no substance will result in your removal. All AHelp messages are relayed to the Starwolves Discord.
 
 The usage of any third-party applications/scripts/client modifications or any other applicable software to gain an advantage, avoid intended game/server mechanics, or to harm server infrastructure is strictly prohibited, as is the abuse of glitches, exploits and bugs. Any and all instances of this will be met with an appeal-only ban; please use the #bug-reports channel on the Discord to report any issues you find in-game.
 
@@ -17,17 +17,17 @@ If you have any questions about these rules, please use the admin help menu by h
 [color=#a4885c]0.[/color] Admins can disregard any and all of these rules if they deem it in the best interest of the current round, server, and/or community at large.
  - Administrators will be held fully accountable for their actions if they exercise this privilege.
  - All of these rules apply as they are intended. Every example of a rule break cannot be defined as written, therefore, enforcement of the rules is subject to staff interpretation of the rule's intention.
- - Any extended discussion regarding interpretation of the rules should be avoided in the AHelp menu and can be instead pursued within the Delta-V Discord in the #help channel.
+ - Any extended discussion regarding interpretation of the rules should be avoided in the AHelp menu and can be instead pursued within the Starwolves Discord.
 
 [color=#a4885c]E1.[/color] Erotic Roleplay (ERP), erotic content, or 18+ sexual content is [color=#ff0000]not allowed under any circumstance[/color]. This includes comments not explicitly sexual in nature that contain words, phrases, or ideations that are deemed inappropriate by staff or members. [color=#ff0000]If roleplay reaches a point where it has become sexual and/or uncomfortable, immediately stop and contact an administrator or moderator.[/color]
 
-[color=#a4885c]E2.[/color] Delta-V is an English-based community; use English as your primary method of communication within the game and Delta-V servers.
+[color=#a4885c]E2.[/color] Starwolves is an English-based community; use English as your primary method of communication within the game and Starwolves servers.
  - Do not spam or advertise on our server.
  - Be respectful towards other members and avoid making others uncomfortable.
  - We have a zero tolerance policy for racism, sexism, homophobia, violence, threats, hate speech, slurs, and other forms of bigotry, discrimination, and harassment. Slurs and terms that use real or implied mental or physical disability to mock or denigrate members or their in-game characters are also strictly prohibited. Failure to comply with this rule will result in community removal.
  - The denigration of other player characters through reference to their species/morphotype or debasement by comparison to nonsophonts on a discriminatory basis is strictly prohibited and may result in an appeal-only ban.
 
-[color=#a4885c]E3.[/color] Delta-V welcomes content creators and streamers to our community, but we have a few rules regarding livestreaming game servers.
+[color=#a4885c]E3.[/color] Starwolves welcomes content creators and streamers to our community, but we have a few rules regarding livestreaming game servers.
  - While a stream delay is not necessary, it is highly recommended to have at least a 10 second delay.
  - Please let admins know you are streaming via the AHelp prior to doing so.
  - If your chat or viewers are in-game with you while also watching your stream, they are breaking our server rules. Please do not coordinate with them and discourage this behavior if it is seen.
@@ -49,7 +49,7 @@ If you have any questions about these rules, please use the admin help menu by h
  - Use the local-out-of-character (LOOC) and global out-of-character (OOC) channels properly. Don’t speak of in-character matters in those channels unless you’re asking questions related to in-game concepts.
  - Do not use in-character channels to bypass a lack of ability to use OOC/LOOC chats (e.g. "Huh, wonder where the captain went? OOC He probably left to get dinner lol").
  - Do not engage in meta-communications (i.e. using external channels to communicate with other players in the same game).
-    - Do not stream, discuss, or share information about the current round to the Delta-V Discord.
+    - Do not stream, discuss, or share information about the current round to the Starwolves Discord.
  - You are allowed to have knowledge of past experiences and prior shifts, and players are allowed to have in-character relationships (friends, enemies, or otherwise). However, this cannot be used as a sole reason to grant or deny items/accesses/favors based exclusively on having a relationship with one another (i.e. meta-friending/meta-grudging).
     - Antagonists in previous rounds must not be treated differently due to their prior antagonist status. Notwithstanding, confession of crimes committed in a prior shift are still admissible in court.
     - Additionally, and for the sake of continuity, your character will never have permanently died in previous rounds.
@@ -94,7 +94,7 @@ Don't rush for or prepare equipment unrelated to your job for no purpose other t
 [color=#a4885c]Command, Security, and Antagonist Rules:[/color]
 [color=#a4885c]C1.[/color] Follow Command and Security Guidelines:
  - Security and Command roles are held to a higher standard of roleplay, and are expected to know and perform their jobs to the best of their ability. These roles often heavily impact the round and require more careful and conscientious roleplay; if you cannot meet these requirements do not take these roles.
-    - Both departments are required to read and follow Delta-V Space Law, Standard Operating Procedure, Alert Procedure, and Company Policy to the best of their ability.
+    - Both departments are required to read and follow Starwolves Space Law, Standard Operating Procedure, Alert Procedure, and Company Policy to the best of their ability.
     - Abandoning your role to go do whatever you want instead of managing your department or maintaining security, abusing your position or using it to make arbitrary or malicious choices to the detriment of the station, and being negligent to the point of harm is prohibited.
  - If you need to leave the round, please notify administrators via AHelp menu and notify your fellow crew via departmental radio. If you have the capability to do so, ensure that you return your items as necessary and seek cryostorage if you are not planning on returning.
  - Do not give up or trade away Traitor objective items, departmental/Command tools and remotes, and sensitive equipment without excellent reason.
