@@ -1088,7 +1088,8 @@
   - SecurityJumpskirtGrey
   - SecurityJumpsuitBlue # DeltaV
   - SecurityJumpskirtBlue # DeltaV
-  - SeniorOfficerJumpsuit
+  - RedJumpsuit
+  - RedJumpskirt
 #  - SeniorOfficerJumpskirt # DeltaV
 
 - type: loadoutGroup
