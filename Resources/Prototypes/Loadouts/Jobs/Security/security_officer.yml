@@ -142,6 +142,24 @@
     proto: SeniorOfficer
 
 - type: startingGear
+  id: RedJumpsuit
+  equipment: RedJumpsuit
+
+- type: startingGear
+  id: RedJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitColorRed
+
+- type: startingGear
+  id: RedJumpskirt
+  equipment: RedJumpskirt
+
+- type: startingGear
+  id: RedJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtColorRed
+
+- type: startingGear
   id: SeniorOfficerJumpsuit
   equipment:
     jumpsuit: ClothingUniformJumpsuitSecurityTactical # DeltaV - replace ClothingUniformJumpsuitSeniorOfficer
