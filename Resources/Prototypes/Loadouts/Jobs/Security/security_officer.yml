@@ -141,7 +141,7 @@
   - !type:GroupLoadoutEffect
     proto: SeniorOfficer
 
-- type: startingGear
+- type: loadout
   id: RedJumpsuit
   equipment: RedJumpsuit
 
@@ -150,7 +150,7 @@
   equipment:
     jumpsuit: ClothingUniformJumpsuitColorRed
 
-- type: startingGear
+- type: loadout
   id: RedJumpskirt
   equipment: RedJumpskirt
 
