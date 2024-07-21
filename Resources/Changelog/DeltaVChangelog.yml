@@ -2992,3 +2992,45 @@
   id: 433
   time: '2024-07-19T19:01:45.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/1505
+- author: deltanedas
+  changes:
+  - message: The security shuttle NTSP Bulwark can now be bought at the shipyard.
+    type: Add
+  id: 434
+  time: '2024-07-21T03:34:43.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1267
+- author: Velcroboy
+  changes:
+  - message: Fixed shuttle windows being too easy to deconstruct
+    type: Fix
+  id: 435
+  time: '2024-07-21T16:15:05.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1519
+- author: deltanedas
+  changes:
+  - message: Fixed Senior Researcher's PDA not having the Glimmer Monitor program.
+    type: Fix
+  id: 436
+  time: '2024-07-21T16:24:04.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1515
+- author: Colin_Tel, DLondon
+  changes:
+  - message: Some traitors seem to have nothing else to lose.
+    type: Add
+  id: 437
+  time: '2024-07-21T16:35:16.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1487
+- author: Colin-Tel
+  changes:
+  - message: Playtime requirements across "newbie jobs" have been adjusted.
+    type: Tweak
+  id: 438
+  time: '2024-07-21T16:39:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1500
+- author: Colin-Tel
+  changes:
+  - message: Service Workers can now choose green clothes in their loadouts!
+    type: Add
+  id: 439
+  time: '2024-07-21T16:44:24.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/1499
