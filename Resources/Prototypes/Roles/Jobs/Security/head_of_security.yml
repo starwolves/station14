@@ -15,7 +15,7 @@
       time: 9000 #36000 # 10 hours
     - !type:OverallPlaytimeRequirement
       time: 22500 # 90000 # DeltaV - 25 hours
-    - !type:WhitelistRequirement # DeltaV - Whitelist requirement
+    #- !type:WhitelistRequirement # DeltaV - Whitelist requirement
   weight: 10
   startingGear: HoSGear
   icon: "JobIconHeadOfSecurity"

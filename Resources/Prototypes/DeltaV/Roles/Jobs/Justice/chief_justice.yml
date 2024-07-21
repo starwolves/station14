@@ -15,7 +15,7 @@
       time: 900 # 36000 # 10 hours
     - !type:OverallPlaytimeRequirement
       time: 22500 # 90000 # 25 hours
-    - !type:WhitelistRequirement # whitelist requirement because I don't want any dingus judges
+    #- !type:WhitelistRequirement # whitelist requirement because I don't want any dingus judges
   weight: 20
   startingGear: CJGear
   icon: "JobIconChiefJustice"

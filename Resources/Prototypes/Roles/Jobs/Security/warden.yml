@@ -10,7 +10,7 @@
     - !type:RoleTimeRequirement # DeltaV - JobDetective time requirement. Give them an understanding of basic forensics.
       role: JobDetective
       time: 5400 #21600 # DeltaV - 6 hours
-    - !type:WhitelistRequirement # DeltaV - Whitelist requirement
+    #- !type:WhitelistRequirement # DeltaV - Whitelist requirement
   startingGear: WardenGear
   icon: "JobIconWarden"
   supervisors: job-supervisors-hos
