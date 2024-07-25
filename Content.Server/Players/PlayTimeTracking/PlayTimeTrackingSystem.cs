@@ -198,8 +198,8 @@ public sealed class PlayTimeTrackingSystem : EntitySystem
 
     public bool IsAllowed(ICommonSession player, string role)
     {
-        if (!_prototypes.TryIndex<JobPrototype>(role, out var job) /*||
-            !_cfg.GetCVar(CCVars.GameRoleTimers)*/)
+        if (!_prototypes.TryIndex<JobPrototype>(role, out var job) ||
+            !_cfg.GetCVar(CCVars.GameRoleTimers))
             return true;
 
         if (!_tracking.TryGetTrackerTimes(player, out var playTimes))
@@ -216,8 +216,8 @@ public sealed class PlayTimeTrackingSystem : EntitySystem
     public HashSet<ProtoId<JobPrototype>> GetDisallowedJobs(ICommonSession player)
     {
         var roles = new HashSet<ProtoId<JobPrototype>>();
-        /*if (!_cfg.GetCVar(CCVars.GameRoleTimers))
-            return roles;*/
+        if (!_cfg.GetCVar(CCVars.GameRoleTimers))
+            return roles;
 
         if (!_tracking.TryGetTrackerTimes(player, out var playTimes))
         {
@@ -238,8 +238,8 @@ public sealed class PlayTimeTrackingSystem : EntitySystem
 
     public void RemoveDisallowedJobs(NetUserId userId, List<ProtoId<JobPrototype>> jobs)
     {
-        /*if (!_cfg.GetCVar(CCVars.GameRoleTimers))
-            return;*/
+        if (!_cfg.GetCVar(CCVars.GameRoleTimers))
+            return;
 
         var player = _playerManager.GetSessionById(userId);
         if (!_tracking.TryGetTrackerTimes(player, out var playTimes))
